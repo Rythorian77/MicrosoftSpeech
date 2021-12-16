@@ -1,0 +1,14 @@
+C:\Users\justin.ross\source\repos\MicroSoftSpeech\MicroSoftSpeech\bin\x64\Debug\MicroSoftSpeech.exe.config
+C:\Users\justin.ross\source\repos\MicroSoftSpeech\MicroSoftSpeech\bin\x64\Debug\MicroSoftSpeech.exe
+C:\Users\justin.ross\source\repos\MicroSoftSpeech\MicroSoftSpeech\bin\x64\Debug\MicroSoftSpeech.pdb
+C:\Users\justin.ross\source\repos\MicroSoftSpeech\MicroSoftSpeech\bin\x64\Debug\MicroSoftSpeech.xml
+C:\Users\justin.ross\source\repos\MicroSoftSpeech\MicroSoftSpeech\obj\x64\Debug\MicroSoftSpeech.vbproj.AssemblyReference.cache
+C:\Users\justin.ross\source\repos\MicroSoftSpeech\MicroSoftSpeech\obj\x64\Debug\Interop.VSTOEE100.dll
+C:\Users\justin.ross\source\repos\MicroSoftSpeech\MicroSoftSpeech\obj\x64\Debug\MicroSoftSpeech.vbproj.ResolveComReference.cache
+C:\Users\justin.ross\source\repos\MicroSoftSpeech\MicroSoftSpeech\obj\x64\Debug\MicroSoftSpeech.Form1.resources
+C:\Users\justin.ross\source\repos\MicroSoftSpeech\MicroSoftSpeech\obj\x64\Debug\MicroSoftSpeech.Resources.resources
+C:\Users\justin.ross\source\repos\MicroSoftSpeech\MicroSoftSpeech\obj\x64\Debug\MicroSoftSpeech.vbproj.GenerateResource.cache
+C:\Users\justin.ross\source\repos\MicroSoftSpeech\MicroSoftSpeech\obj\x64\Debug\MicroSoftSpeech.vbproj.CoreCompileInputs.cache
+C:\Users\justin.ross\source\repos\MicroSoftSpeech\MicroSoftSpeech\obj\x64\Debug\MicroSoftSpeech.exe
+C:\Users\justin.ross\source\repos\MicroSoftSpeech\MicroSoftSpeech\obj\x64\Debug\MicroSoftSpeech.xml
+C:\Users\justin.ross\source\repos\MicroSoftSpeech\MicroSoftSpeech\obj\x64\Debug\MicroSoftSpeech.pdb
